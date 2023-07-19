@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_usercircleselected.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_usercircleselected.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_play.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_play.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_shrink.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_shrink.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.easyway.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_loadericon.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_loadericon.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_topvignette.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_topvignette.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_expand.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_expand.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_pause.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_pause.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_defult.jpg.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_defult.jpg"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_unchecked.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_unchecked.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_play.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_play.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_checked.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_checked.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.easyway.app-main-32:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_volume.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_volume.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_bottomvignette.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_bottomvignette.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_expand.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_expand.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.easyway.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_delete.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_delete.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_usercircle.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_usercircle.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_houseselected.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_houseselected.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.easyway.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_loadericon.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_loadericon.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_topvignette.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_topvignette.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_editimage.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_editimage.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_volume.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_volume.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_topvignette.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_topvignette.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_erroricon.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_erroricon.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_bottomvignette.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_bottomvignette.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.easyway.app-main-32:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_playcircle.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_playcircle.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_pause.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_pause.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_erroricon.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_erroricon.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.easyway.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_splash1.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_splash1.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_back.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_back.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/mipmap_ic_launcher_round.png.flat",
+        "source": "com.easyway.app-main-32:/mipmap/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/mipmap_ic_launcher.png.flat",
+        "source": "com.easyway.app-main-32:/mipmap/ic_launcher.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_chevron_right.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_chevron_right.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_indicators.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_indicators.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_volume.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_volume.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_play.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_play.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.easyway.app-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_bottomvignette.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_bottomvignette.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.easyway.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_expand.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_expand.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_shrink.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_shrink.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_profile.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_profile.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.easyway.app-main-32:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_pause.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_pause.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_eyeno.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_eyeno.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_back.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_back.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_play.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_play.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_back.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_back.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_loadericon.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_loadericon.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_erroricon.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_erroricon.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.easyway.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_back.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_back.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_house.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_house.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.easyway.app-main-32:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_shrink.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_shrink.png"
+    },
+    {
+        "merged": "com.easyway.app-merged_res-31:/drawable-mdpi_assets_eye.png.flat",
+        "source": "com.easyway.app-res-25:/drawable-mdpi/assets_eye.png"
+    }
+]
